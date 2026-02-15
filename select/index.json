@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Everybody Needs Love（feat. SIRUP）",
+  "base_artist": "MALIYA",
+  "createdAt": "2026-02-15T00:23:34.538384Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Everybody Needs Love (feat. SIRUP)",
+      "artist": "MALIYA",
+      "has_synced": false,
+      "path": "select/pl_01_Everybody_Needs_Love_(feat._SIRUP)_MALIYA.txt"
+    }
+  ]
+}
